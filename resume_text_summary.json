@@ -1,0 +1,633 @@
+{
+  "Abhishek8744-yadav-job_related": {
+    "pdf_files": [],
+    "doc_files": [
+      "Job_Related/My_resume.docx"
+    ],
+    "image_files": [
+      "Job_Related/glassdoor_profile.png",
+      "Job_Related/indeed_profile.png",
+      "Job_Related/intershalla_profile.png",
+      "Job_Related/linkedin_profile.png",
+      "Job_Related/moster_profile.png",
+      "Job_Related/naukari_profile.png"
+    ],
+    "other_files": []
+  },
+  "Aravind24092001-resume": {
+    "pdf_files": [
+      {
+        "path": "data science.pdf",
+        "text_snippet": "KUMMARAARAVIND DataScientist&GenAIEngineer \ud83d+91-9502585466|\ud83dkummaraaravind@gmail.com \ud83dhttps://www.linkedin.com/in/kummara-aravind-582657294 \ud83dBengaluru/Hyderabad(OpentoRelocate) CAREEROBJECTIVE Results-drivenDataScientistandGenAIEngineerwith2.5yearsofhands-onexperiencedesigninganddeployingdata- drivenandgenerativeAIsolutionsacrossaviation,retail,andpharmadomains.Provenexpertiseinbuildingproduction- gradeRAGpipelines,agenticworkflows,andclassicalMLmodelswithresponsibleAIguardrails,robustevaluations,and MLOpspracticesonAzure.Passionateaboutadvancingmodernagenticarchitectures,LLMevaluationframeworks,and scalableMLsystemsthatdeliverrealbusinessvalue. EDUCATION B.E.ComputerScience\u2014MuthayammalEngineeringCollege 2019\u20132023 SKILLS TechnicalSkills Programming:Python,SQL,Git ML/Classical:scikit-learn,XGBoost,LightGBM,Modelevaluation(AUC/F1),Imbalancehandling NLP/LLMs:Tokenlimits,contextwindows,promptpatterns,structuredoutputs(JSON) GenAI:RAG,Embeddings,Hybridretrieval,Chunkingstrategies,Citations,Guardrails AgenticAI:LangGraph,Tool/functioncalling,Planning&routing,Memorypatterns,ReActorchestration Frameworks:LangChain,LlamaIndex,FastAPI/Flask,Pydantic VectorDB/Search:AzureAISearch(Vector),FAISS,Chroma Azure:AzureOpenAI,AzureML,Blob/ADLS,KeyVault,AppService MLOps/Evals:MLflow,Prompt/LLMevals,Offlinetestsets,Monitoring Data:Pandas,NumPy,EDA,Featureengineering,Dataqualitychecks SoftSkills:TeamCollaboration,ProblemSolving,AnalyticalThinking,ProjectManagment EXPERIENCE DataScientist&GenAIEngi",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "linkedin.PNG",
+      "naukari.PNG",
+      "well found.PNG"
+    ],
+    "other_files": []
+  },
+  "DHANYAVADH-EDUKRON-PYTHON-2026": {
+    "pdf_files": [
+      {
+        "path": "dhanyavadh_resume.pdf",
+        "text_snippet": "DHANYAVADH B   dhanyavadhb69@gmail.com | +91 74834 64370   Summary:   Recent Data Science graduate with strong foundation in Machine Learning, AI, and Statistical Analysis. Skilled in  Python, SQL  for data preprocessing, feature engineering, and model building. Hands -on project experience in  customer analytics, credit risk assessment, and Generative AI chatbot development. Proficient in data  visualization using Power BI, Matplotlib, and Seaborn to g enerate business insights. Passionate about leveraging  data -driven solutions to solve real -world problems with strong communication and teamwork skills.     Technical Skills:   Programming: Python, SQL    Machine Learning & AI: Scikit -learn, XGBoost, NLP , Generative AI   Data Analysis & Processing:  Pandas, NumPy, Data Wrangling, Feature Engineering   Visualization & BI Tools: Matplotlib, Seaborn, Power BI, Data Storytelling, Dashboards    Statistics & Analytics: Hypothesis Testing, Regression, Classification, Clustering   AI & LLM Tools : OpenAI API, Prompt Engineering    Databases: MySQL, SQL Server   Inter nship   AI/ML Intern                                                                                                           (APR  2025 -Present)    \u2022 Gained hands -on experience in data preprocessing, ML model development, and analytics workflows.   \u2022 Worked on projects involving customer segmentation, churn prediction, and Generative AI chatbot   development.   \u2022 Applied classification and regression models using",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "Screenshot_20260521-163734.png",
+      "Screenshot_20260521-163946.png",
+      "Screenshot_20260521-164119.png"
+    ],
+    "other_files": [
+      "PYTHON 2026/dictionary.ipynb",
+      "PYTHON 2026/float.assign.ipynb",
+      "PYTHON 2026/integer.ipynb",
+      "PYTHON 2026/list.assignment.ipynb",
+      "PYTHON 2026/string.ipynb",
+      "PYTHON 2026/tuple.ipynb",
+      "SQL  ASSIGNMENT  QUESTIONS",
+      "SQL.txt"
+    ]
+  },
+  "HariDinesh5481-Docs": {
+    "pdf_files": [
+      {
+        "path": "Job_resume.pdf",
+        "text_snippet": "HARI DINESH REDDY P Machine Learning Engineer \u2014 Data Scientist \u2014 GenAI Engineer Bengaluru / Hyderabad +91-6300026119 Haridineash@gmail.com linkedin.com/in/haridinesh4518 \u2014 github.com/HariDinesh5481 Professional Summary Results-driven Computer Science graduate with experience in Machine Learning, Data Science, Deep Learning, NLP, and Generative AI systems. Skilled in predictive modeling, feature engineering, data preprocessing, ex- ploratory data analysis, and model evaluation using Python, SQL, scikit-learn, and XGBoost. Experienced in Retrieval-Augmented Generation (RAG), prompt engineering, vector search workflows, and structured AI pipelines using Azure OpenAI and LangChain. Professional Experience AI ML LABS PVT LTDOct 2024 \u2013 Mar 2026 Data Scientist \u2022Developed machine learning models for regression and classification tasks using Python and scikit-learn. \u2022Performed exploratory data analysis, preprocessing, feature engineering, and missing value handling. \u2022Applied train-test split strategies and cross-validation techniques for model validation. \u2022Improved model performance through feature optimization and evaluation techniques. \u2022Wrote SQL queries for joins, aggregations, filtering, and structured data extraction. \u2022Worked on prompt engineering workflows with structured JSON outputs. \u2022Assisted in debugging workflows and improving prediction consistency. \u2022Supported experiment tracking and workflow documentation processes. Technical Skills ProgrammingPython, SQL, Git Machine Lea",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "indeed/Screenshot 2026-05-21 230839.png",
+      "indeed/Screenshot 2026-05-21 230855.png",
+      "indeed/Screenshot 2026-05-21 230907.png",
+      "linkedin/Screenshot 2026-05-21 225809.png",
+      "linkedin/Screenshot 2026-05-21 225835.png",
+      "monster/Screenshot 2026-05-21 231311.png",
+      "monster/Screenshot 2026-05-21 231327.png",
+      "naukri/Screenshot 2026-05-21 230007.png",
+      "naukri/Screenshot 2026-05-21 230712.png",
+      "naukri/Screenshot 2026-05-21 230729.png",
+      "wellfound/Screenshot 2026-05-21 231046.png",
+      "wellfound/Screenshot 2026-05-21 231110.png"
+    ],
+    "other_files": []
+  },
+  "Harichandanaaaa-Resume_update": {
+    "pdf_files": [
+      {
+        "path": "Resume_folder/Resume_file/Hari_Chandana_N_Resume (1).pdf",
+        "text_snippet": "HARI CHANDANA N  Data Science  |  Data Analysis  |  Machine Learning  harichandana7522@gmail.com  |  +91-8985834275  |  Bangalore, Karnataka, India  linkedin.com/in/hari-chandana-n  |  github.com/Harichandanaaaa  CAREER OBJECTIVE Ambitious and motivated engineering graduate seeking an entry-level position in Data Science or Data Analysis where I can apply my knowledge of Python, machine learning, and data analytics to extract meaningful insights from data. Eager to contribute to data-driven decision making while continuously enhancing my analytical and technical skills. TECHNICAL SKILLS Programming Python, SQL, Git Machine Learning scikit-learn, XGBoost, LightGBM, Model Evaluation (AUC/F1), Imbalance Handling NLP / LLMs Token Limits, Context Windows, Prompt Patterns, Structured Outputs (JSON) GenAI RAG, Embeddings, Hybrid Retrieval, Chunking Strategies, Citations, Guardrails Frameworks LangChain, LlamaIndex, FastAPI / Flask (basics), Pydantic Vector DB / Search Azure AI Search (Vector), FAISS, Chroma (basics) Azure Azure OpenAI, Azure ML (basics), Blob / ADLS, Key Vault, App Service (basics) MLOps / Evals MLflow, Prompt / LLM Evals, Offline Test Sets, Monitoring Basics Data Pandas, NumPy, Data Preprocessing, EDA, Feature Engineering Tools MLflow, Git WORK EXPERIENCE Data Science Intern \u2014 AIML Labs Pvt Ltd Internship \u25a0 Data Science / AI  Domain  \u007f  Performed end-to-end data collection, cleaning, and preprocessing using Python (Pandas, NumPy) to build reliable, analysis-ready d",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "Resume_folder/Indeed_file/Screenshot 2026-05-21 174907.png",
+      "Resume_folder/Indeed_file/Screenshot 2026-05-21 182425.png",
+      "Resume_folder/Indeed_file/Screenshot 2026-05-21 182442.png",
+      "Resume_folder/Internshala_file/Screenshot 2026-05-21 174719.png",
+      "Resume_folder/Internshala_file/Screenshot 2026-05-21 181646.png",
+      "Resume_folder/Internshala_file/Screenshot 2026-05-21 181702.png",
+      "Resume_folder/Internshala_file/Screenshot 2026-05-21 181715.png",
+      "Resume_folder/Linkedin_file/Screenshot 2026-05-21 183434 - Copy.png",
+      "Resume_folder/Linkedin_file/Screenshot 2026-05-21 183450.png",
+      "Resume_folder/Linkedin_file/Screenshot 2026-05-21 183500.png",
+      "Resume_folder/Monster_file/Screenshot 2026-05-21 174058.png",
+      "Resume_folder/Monster_file/Screenshot 2026-05-21 182840.png",
+      "Resume_folder/Monster_file/Screenshot 2026-05-21 182904.png",
+      "Resume_folder/Monster_file/Screenshot 2026-05-21 182932.png",
+      "Resume_folder/Monster_file/Screenshot 2026-05-21 182947.png",
+      "Resume_folder/Naukri_file/Screenshot 2026-05-21 173703.png",
+      "Resume_folder/Naukri_file/Screenshot 2026-05-21 183703 - Copy.png",
+      "Resume_folder/Naukri_file/Screenshot 2026-05-21 183703.png",
+      "Resume_folder/Naukri_file/Screenshot 2026-05-21 183721.png",
+      "Resume_folder/Naukri_file/Screenshot 2026-05-21 183734.png",
+      "Resume_folder/Naukri_file/Screenshot 2026-05-21 183748 - Copy.png"
+    ],
+    "other_files": []
+  },
+  "Haricheluri-profile": {
+    "pdf_files": [
+      {
+        "path": "HARIHARAN_RESUME.pdf",
+        "text_snippet": "HARI HARAN CHELUR U  +91 9490361546 | chelurihariharan@gmail.com | Kurnool, Andhra Pradesh   PROFESSIONAL SUMMARY   Motivated and skilled final -year B.Tech Computer Science student specializing in MERN (MongoDB, Express.js, React.js,  Node.js) stack development and Python. Eager to contribute to impactful web development projects and leverage technical  expertise to build  innovative solutions.   SKILLS   - JavaScript   - Python   - HTML   - CSS  - React.js   - Tailwind CSS   - Node.js   - Express.js   - MongoDB   - REST APIs   - JSON Web Token (JWT)   - Git  - GitHub   - VS Code  - Responsive Design   - Problem Solving   - Communication   - Teamwork   PROFESSIONAL EXPERIENCE   Software Development Intern   Six Phrase   Remote | 05/2025 - 06/2025   Developed a fully functional E -commerce cart system using modern web technologies.   Implemented user authentication, product and cart management features, and ensured a responsive design for optimal user  experience.   EDUCATION   Bachelor of Technology in Computer Science   G. Pulla Reddy Engineering College   Kurnool, Andhra Pradesh | 08/2022 - 06/2026   CGPA: 8.01 (through 3rd year)   Coursework includes: Data Structures, Algorithms, Database Management, Web Development   CERTIFICATIONS    Full Stack Development  \u2013 Internshala (8 -Month Training)   PGC in Full Stack Development  \u2013 Scholive Educare (Skill India/NSDC)   PROJECTS   ShoppyGlobe -E-commerce App : Developed a fully responsive e -commerce platform using MERN stack, ",
+        "has_text": true,
+        "extract_error": ""
+      },
+      {
+        "path": "Hariharan_cheluru_resume.pdf",
+        "text_snippet": "HARI HARAN CHELURU +91 9490361546 |chelurihariharan@gmail.com |Kurnool, Andhra Pradesh github.com/Haricheluri |hariharancheluru.netlify.app Professional Summary Motivated final-year B.Tech student in Computer Science and Data Science with hands-on internship experience and a strong foundation in MERN Stack Development, Python, and Machine Learning. Proven ability to build production-grade full-stack web applications, RESTful APIs, and end-to-end ML pipelines. Adept at translating complex data into actionable insights, with a keen interest in scalable software systems and data-driven applications. Quick learner with strong problem-solving, collaboration, and communication skills. Professional Experience Data Science Intern \u2014 VSM Infotech Pvt Ltd 12/2025 \u2013 Present Remote, India \u2022Performed comprehensive Exploratory Data Analysis (EDA) on large datasets to uncover patterns, trends, and anomalies using Pandas, NumPy, and Matplotlib. \u2022Designed and implemented end-to-end ML pipelines for predictive modeling, encompassing data ingestion, preprocess- ing, model training, and deployment-ready output. \u2022Applied cross-validation (k-fold, stratified) and hyperparameter tuning techniques to improve model generalization and prevent overfitting. \u2022Conducted thorough data cleaning, preprocessing, and feature engineering including handling missing values, encoding categorical variables, and scaling numerical features. \u2022Developed interactive visualizations and concise insight summaries using Matp",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "Screenshot 2026-05-21 192156.png",
+      "Screenshot 2026-05-21 192211.png",
+      "Screenshot 2026-05-21 192219.png",
+      "Screenshot 2026-05-21 192227.png",
+      "Screenshot 2026-05-21 192234.png",
+      "Screenshot 2026-05-21 192333.png",
+      "Screenshot 2026-05-21 192411.png",
+      "Screenshot 2026-05-21 192419.png",
+      "Screenshot 2026-05-21 192427.png",
+      "Screenshot 2026-05-21 192433.png",
+      "Screenshot 2026-05-21 192540.png",
+      "Screenshot 2026-05-21 192648.png",
+      "Screenshot 2026-05-21 192653.png",
+      "Screenshot 2026-05-21 192700.png",
+      "Screenshot 2026-05-21 192706.png",
+      "Screenshot 2026-05-21 192713.png",
+      "Screenshot 2026-05-21 192723.png"
+    ],
+    "other_files": []
+  },
+  "Murali-Krishna22ds-Resume": {
+    "pdf_files": [],
+    "doc_files": [
+      "Murali_Krishna_N_Optimized.docx",
+      "Profile.docx"
+    ],
+    "image_files": [],
+    "other_files": []
+  },
+  "afisha-02-Afisha_resume": {
+    "pdf_files": [
+      {
+        "path": "Afisha_Azme_Resume (1).pdf",
+        "text_snippet": "AFISHA AZME   Data Scientist  \u2022  Machine Learning Engineer  \u2022  Python | SQL | Power BI   +91-6303662944  \u2022  azmeshaik@gmail.com   \u2022  linkedin.com/in/afisha -azme -612400357   \u2022  github.com/afisha -02  \u2022   Bengaluru / Hyderabad   PROFESSIONAL SUMMARY   Data Scientist with 6 months of hands -on experience building end -to-end ML pipelines and analyzing datasets up to  110K+ records. Improved minority -class F1 -score by 18% and delivered a segmentation -driven strategy projected  to reduce patient no -show rates by 15 \u201320%. Skilled in Python, SQL, Machine Learning, Power BI, and NLP/GenAI  with a strong focus on data analysis, business insights, and stakeholder -ready reporting. Seeking full -time Data  Scientist / ML Engineer roles in Bengaluru or Hyderabad. Available  for immediate joining.   CORE COMPETENCIES     Data Analysis &  EDA ML Model  Development  SQL & Data  Extraction  Business  Insights  Data Cleaning  & ETL  NLP & GenAI   Python  (Pandas,  NumPy)  XGBoost /  Random Forest  Power BI &  Tableau  Stakeholder  Reporting  MLflow &  MLOps  Feature  Engineering   TECHNICAL SKILLS   Languages & Querying: Python (Pandas, NumPy, scikit -learn), SQL   Machine Learning: Classification, Clustering, Regression, Feature Engineering, XGBoost, Random Forest, Model  Evaluation (AUC -ROC, F1, Precision/Recall)   NLP & GenAI: TF-IDF, Sentence Embeddings, LangChain, LLM Integration, Prompt Engineering   Data Visualization: Matplotlib, S eaborn, Plotly, Power BI, Tableau   MLOps & To",
+        "has_text": true,
+        "extract_error": ""
+      },
+      {
+        "path": "Screenshot (537).pdf",
+        "text_snippet": "",
+        "has_text": false,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [],
+    "other_files": []
+  },
+  "darshan-202003-My_resume": {
+    "pdf_files": [
+      {
+        "path": "Darshan_MY_Resume.pdf",
+        "text_snippet": "DARSHAN M Y     Data Scientist | GenAI & Agentic AI Engineer | ML Practitioner   darshanmy20@gmail.com  | +91 -8618250795 | Bengaluru / Hyderabad (Open to Relocate) | linkedin.com/in/darshanmy     CAREER OBJECTIVE   Results -driven  Data  Scientist  with around 1+ years of experience  in Generative  AI, Agentic  AI workflows,  and classical  Machine   Learning. Seeking to build and deploy intelligent, grounded AI solutions \u2014RAG pipelines, LLM -powered agents, and ML  classification models \u2014that deliver  measurable  business  outcomes.  Adept  in LangChain,  LangGraph,  Azure  OpenAI,  and MLflow   with a strong focus on responsible AI, prompt engineering, structured outputs, and evaluation frameworks.   PROFESSIONAL EXPERIENCE   Data  Scientist / AI Engineer | ANTS IT Solutions Pvt. Ltd. \u2014 Hyderabad  Mar 2025 \u2013 Present (1 Year)   \u2022 Designed  and delivered  end-to-end GenAI  solutions  leveraging  RAG  architecture  with grounded  responses,  citations,  and  fallback behavior on Azure OpenAI.   \u2022 Built agentic  AI workflows  using  LangGraph  with tool/function  calling,  multi -step planning,  routing,  and verification  for complex  business tasks.   \u2022 Engineered  prompts  for consistent  JSON  structured  outputs  and implemented  policy  and content  guardrails  to reduce  hallucination risk.   \u2022 Implemented  chunking  strategies,  metadata  filters,  and hybrid  retrieval  (Azure  AI Search)  to improve  answer  faithfulness  and  relevance scores.   \u2022 Developed  classic",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "Screenshot (16).png",
+      "Screenshot (17).png",
+      "Screenshot (18).png",
+      "Screenshot (19).png",
+      "Screenshot (20).png",
+      "Screenshot (21).png",
+      "Screenshot (22).png",
+      "Screenshot (23).png",
+      "Screenshot (24).png",
+      "Screenshot (25).png",
+      "Screenshot (26).png",
+      "Screenshot (27).png",
+      "Screenshot (28).png",
+      "Screenshot (29).png",
+      "Screenshot (31).png"
+    ],
+    "other_files": [
+      "link.txt"
+    ]
+  },
+  "gujjulakiran725-cyber-jobs-and-resume": {
+    "pdf_files": [
+      {
+        "path": "job_profiles/Ravi kiran ml (1).pdf",
+        "text_snippet": "GUJJULA RAVI KIRAN   Machine Learning Engineer   +91-8688544959  |  gujjularavikiran725@gmail.com  |  Bengaluru / Hyderabad (Open to Relocate)   linkedin.com/in/gujjula-ravikiran-4249003aa   CAREER OBJECTIVE   Machine Learning Engineer with 1 year of experience building data-driven and GenAI solutions. Skilled in RAG pipelines, agentic AI  workflows, classical ML, and MLOps on Azure. Seeking to leverage expertise in LangChain, LangGraph, Azure OpenAI, and responsible AI  practices to deliver measurable business impact.   TECHNICAL SKILLS   Languages  Python, SQL, Git, HTML/CSS   Machine Learning  scikit-learn, XGBoost, LightGBM, SHAP, MLflow, AUC/F1 evaluation, imbalance handling   NLP & Deep Learning  Prompt engineering, structured outputs (JSON), context windows, VGG16, CNN, OpenCV   Generative AI  RAG, Embeddings, Hybrid retrieval, Chunking strategies, Citations, Guardrails   Agentic AI  LangGraph, LangChain, LlamaIndex, Tool/function calling, ReAct-style orchestration, Pydantic   Data & Libraries  Pandas, NumPy, Matplotlib, FastAPI, EDA, Feature engineering   Cloud & MLOps  Azure OpenAI, Azure AI Search, MLflow, Experiment tracking, Retraining pipelines   KEY RESPONSIBILITIES & CONTRIBUTIONS   \u2022 Designed and delivered GenAI solutions using RAG patterns with grounded responses, citations, and fallback behavior.   \u2022 Implemented chunking, metadata filters, and evaluation sets to improve answer faithfulness and relevance.   \u2022 Built agentic workflows with tool/function calling",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "job_profiles/IMG_2084.png",
+      "job_profiles/IMG_2085.png",
+      "job_profiles/Screenshot 2026-05-21 174328.png",
+      "job_profiles/Screenshot 2026-05-21 180909.png"
+    ],
+    "other_files": []
+  },
+  "jayanthn2703-updated-resume-and-job-profiles-screenshot": {
+    "pdf_files": [
+      {
+        "path": "jayanth_resume.pdf",
+        "text_snippet": "JAYANTH N Data Scientist | GenAI & Agentic AI Engineer | ML Practitioner jayanthmails@gmail.com  | +91-8310457656 | Bengaluru / Hyderabad (Open to Relocate) | linkedin.com/in/jayanth- n077057208/ CAREER OBJECTIVE Results-driven Data Scientist with hands-on experience in Generative AI, Agentic AI workflows, and classical Machine  Learning. Seeking to build and deploy intelligent, grounded AI solutions\u2014RAG pipelines, LLM-powered agents, and ML  classification models\u2014that deliver measurable business outcomes. Adept in LangChain, LangGraph, Azure OpenAI,  and MLflow with a strong focus on responsible AI, prompt engineering, structured outputs, and evaluation frameworks. PROFESSIONAL EXPERIENCE Data Scientist / AI Engineer  | ANTS IT Solutions Pvt. Ltd. \u2014 Hyderabad    Mar 2025 \u2013 Present (1 Year) \u2022Designed and delivered end-to-end GenAI solutions leveraging RAG architecture with grounded responses,  citations, and fallback behavior on Azure OpenAI. \u2022Built agentic AI workflows using LangGraph with tool/function calling, multi-step planning, routing, and verification   for complex business tasks. \u2022Engineered prompts for consistent JSON structured outputs and implemented policy and content guardrails to  reduce hallucination risk. \u2022Implemented chunking strategies, metadata filters, and hybrid retrieval (Azure AI Search) to improve answer  faithfulness and relevance scores. \u2022Developed classical ML classification models with robust validation, leakage prevention, threshold optimization,",
+        "has_text": true,
+        "extract_error": ""
+      },
+      {
+        "path": "scrennshots.pdf",
+        "text_snippet": "",
+        "has_text": false,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [],
+    "other_files": []
+  },
+  "kireeti200105-Kireeti-Resume": {
+    "pdf_files": [
+      {
+        "path": "BADUGU_KIREETI_RESUME.pdf",
+        "text_snippet": "KIREETI BADUGU Bengaluru / Hyderabad (Open to relocate) +91 9908188093 \u2014 kireetibadugu@gmail.com \u2014 linkedin.com/in/kireeti-badugu Career Objective Aspiring Data Science and GenAI professional with knowledge of machine learning, retrieval-augmented generation, prompt engineering, and agentic AI workflows. Interested in building reliable AI systems, improving model performance, and applying data-driven solutions to real-world business problems using modern AI and MLOps practices. Education B.Tech in Electronics and Communication Engineering2020 \u2013 2024 N.B.K.R Institute of Science and Technology, Tirupati, Andhra Pradesh CGPA: 8.3 Skills ProgrammingPython, SQL, Git Machine Learningscikit-learn, XGBoost, LightGBM, Model Evaluation, Classifica- tion Models Generative AIRAG, Embeddings, Prompt Engineering, Hybrid Search, Chunk- ing, Guardrails Agentic AILangGraph, Tool Calling, Routing, Structured Outputs, Memory Patterns FrameworksLangChain, LlamaIndex, FastAPI, Flask, Pydantic Cloud & AzureAzure OpenAI, Azure AI Search, Azure ML, Blob Storage, Key Vault MLOpsMLflow, Monitoring, Offline Evaluation, Experiment Tracking Data AnalysisPandas, NumPy, Feature Engineering, Data Cleaning, EDA Responsibilities \u2022Developed GenAI and machine learning solutions using RAG pipelines and AI orchestration workflows. \u2022Improved retrieval accuracy and response quality using chunking, metadata filtering, and evaluation techniques. \u2022Built structured AI workflows with tool calling, routing logic, and va",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "internshala.png",
+      "monster.png",
+      "naukri.png"
+    ],
+    "other_files": []
+  },
+  "kruthikaa86-creator-resume": {
+    "pdf_files": [
+      {
+        "path": "_kruthika_a_resume.pdf",
+        "text_snippet": "KRUTHIKA A   Bengaluru, Karnataka     kruthikaa86@gmail.com  ||  +919986679668   ||  linkedin   CAREER OBJECTIVE   Data Scientist with 6 months of hands -on internship experience in building end -to-end machine learning models  and data -driven solutions. Skilled in Python, SQL, Data Science, Machine Learning, Deep Learning, NLP,  Generative AI, and Agent AI, with experience in developing intelligent syst ems and analytical dashboards. Strong  foundation in statistics, feature engineering, and model evaluation, with the ability to translate data into actionable  insights. Eager to contribute to solving real -world business problems using data and AI.   PROFESSIO NAL EXPERIENCE   Data Science Intern \u2014 AIML LABS PVT LTD   |  January 2026 to Present   \u2022 Developed and deployed end -to-end machine learning models for real -world business use cases.   \u2022 Performed data cleaning, preprocessing, and transformation to prepare high-quality datasets.   \u2022 Conducted exploratory data analysis (EDA) to identify patterns, trends, and insights.   \u2022 Built and optimized classification, regression, and clustering models.   \u2022 Applied feature engineering techniques to improve model performance and inte rpretability.   \u2022 Evaluated models using appropriate metrics and ensured reliability and robustness.   \u2022 Designed and developed interactive dashboards using Power BI/Tableau for data visualization.   \u2022 Worked with large datasets using Python libraries like Pandas and NumPy.   \u2022 Implemented NLP techni",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "internshala.png",
+      "monster.png",
+      "naukri.png"
+    ],
+    "other_files": []
+  },
+  "kumarrajathammana918-jobs-and-resume": {
+    "pdf_files": [
+      {
+        "path": "Kumarraja_resume.pdf",
+        "text_snippet": "Thammana Kumar Raja  Machine Learning Engineer  +91-7036110994  |  kumarrajathammana1918@gmail.com  |  Bengaluru / Hyderabad (Open to Relocate)  LinkedIn: linkedin.com/in/kumar-raja-3ba124235  |  GitHub: github.com/kumarrajathammana918   CAREER OBJECTIVE Machine Learning Engineer with 1 year of experience building data-driven and GenAI solutions. Skilled in RAG pipelines, agentic AI workflows, classical ML, and MLOps on Azure. Seeking to leverage expertise in LangChain, LangGraph, Azure OpenAI, and responsible AI practices to deliver measurable business impact. EDUCATION GITAM Institute of Technology  Jan 2021 \u2013 April 2025  Bachelor of Technology in Computer Science  Visakhapatnam  Sri Gayatri Junior College  June 2019 \u2013 May 2021  Intermediate - MPC  Visakhapatnam  Vignan Vihara School  Jan 2018 \u2013 May 2019  SSC  Visakhapatnam   TECHNICAL SKILLS Programming Languages: Python, SQL, Git, HTML/CSS Machine Learning: scikit-learn, XGBoost, LightGBM, SHAP, MLflow, model evaluation (AUC, F1), imbalance handling NLP and Deep Learning: Prompt engineering, structured outputs (JSON), context windows, VGG16, CNN, OpenCV Generative AI: RAG, Embeddings, Hybrid retrieval, Chunking strategies, Citations, Guardrails Agentic AI: LangGraph, LangChain, LlamaIndex, Tool/function calling, ReAct-style orchestration, Pydantic Data and Libraries: Pandas, NumPy, Matplotlib, FastAPI, EDA, Feature engineering Cloud and MLOps: Azure OpenAI, Azure AI Search, MLflow, experiment tracking, retraining pipeline",
+        "has_text": true,
+        "extract_error": ""
+      },
+      {
+        "path": "job_search/Kumarraja_resume.pdf",
+        "text_snippet": "Thammana Kumar Raja  Machine Learning Engineer  +91-7036110994  |  kumarrajathammana1918@gmail.com  |  Bengaluru / Hyderabad (Open to Relocate)  LinkedIn: linkedin.com/in/kumar-raja-3ba124235  |  GitHub: github.com/kumarrajathammana918   CAREER OBJECTIVE Machine Learning Engineer with 1 year of experience building data-driven and GenAI solutions. Skilled in RAG pipelines, agentic AI workflows, classical ML, and MLOps on Azure. Seeking to leverage expertise in LangChain, LangGraph, Azure OpenAI, and responsible AI practices to deliver measurable business impact. EDUCATION GITAM Institute of Technology  Jan 2021 \u2013 April 2025  Bachelor of Technology in Computer Science  Visakhapatnam  Sri Gayatri Junior College  June 2019 \u2013 May 2021  Intermediate - MPC  Visakhapatnam  Vignan Vihara School  Jan 2018 \u2013 May 2019  SSC  Visakhapatnam   TECHNICAL SKILLS Programming Languages: Python, SQL, Git, HTML/CSS Machine Learning: scikit-learn, XGBoost, LightGBM, SHAP, MLflow, model evaluation (AUC, F1), imbalance handling NLP and Deep Learning: Prompt engineering, structured outputs (JSON), context windows, VGG16, CNN, OpenCV Generative AI: RAG, Embeddings, Hybrid retrieval, Chunking strategies, Citations, Guardrails Agentic AI: LangGraph, LangChain, LlamaIndex, Tool/function calling, ReAct-style orchestration, Pydantic Data and Libraries: Pandas, NumPy, Matplotlib, FastAPI, EDA, Feature engineering Cloud and MLOps: Azure OpenAI, Azure AI Search, MLflow, experiment tracking, retraining pipeline",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "internshala/Screenshot 2026-05-21 174436.png",
+      "internshala/Screenshot 2026-05-21 174451.png",
+      "internshala/Screenshot 2026-05-21 174634.png",
+      "internshala/Screenshot 2026-05-21 174650.png",
+      "internshala/Screenshot 2026-05-21 174704.png",
+      "job_search/Screenshot 2026-05-21 171613.png",
+      "job_search/Screenshot 2026-05-21 171628.png",
+      "job_search/WhatsApp Image 2026-05-21 at 5.25.16 PM.jpeg",
+      "monster/Screenshot 2026-05-21 173313.png",
+      "monster/Screenshot 2026-05-21 173625.png",
+      "monster/Screenshot 2026-05-21 173651.png",
+      "naukri/WhatsApp Image 2026-05-21 at 5.54.19 PM (1).jpeg",
+      "naukri/WhatsApp Image 2026-05-21 at 5.54.19 PM.jpeg",
+      "naukri/WhatsApp Image 2026-05-21 at 5.54.20 PM (1).jpeg",
+      "naukri/WhatsApp Image 2026-05-21 at 5.54.20 PM (2).jpeg",
+      "naukri/WhatsApp Image 2026-05-21 at 5.54.20 PM.jpeg"
+    ],
+    "other_files": [
+      "internshala/desktop.ini",
+      "job_search/desktop.ini",
+      "monster/desktop.ini"
+    ]
+  },
+  "maddipatlabhavitha-art-resume-update": {
+    "pdf_files": [
+      {
+        "path": "MADDIPATLA_BHAVI_RESUME 1.pdf",
+        "text_snippet": "Maddipatla Bhavitha  Email: maddipatlabhavitha@gmail.com   LinkedIn: https://www.linkedin.com/in/bhavitha-chowdary-665a07272  Tirupati, Andhra Pradesh, India GitHub: https://github.com/maddipatlabhavitha-art  Phone : +91 9182776938   Objective    Ambitious and motivated engineering graduate seeking an entry-level position in Data Science or Data Analysis where I  can apply my knowledge of Python, machine learning, and data analytics to extract meaningful insights from data.  Eager to contribute to data-driven decision making while continuously enhancing my analytical and technical skills.   Education    \u2022 MadanaPalle Institute of Technology and Science MadanaPalle, Andhra Pradesh BTech in Computer Science, DS  (Percentage of 87) Jul 2021 \u2013 May 2025   \u2022 Sri Chaitanya Junior College  Tirupati, Andhra Pradesh    HSC (Score 966/1000) Jun 2019 \u2013 May 2021   \u2022 Viswa Jyothi High School  Kalakada, Andhra Pradesh    SSC (GPA of 10/10) Jun 2018 \u2013 Apr 2019   Skills    \u2022 Programming Languages : Java, Python   \u2022 Data Science Libraries : Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy   \u2022 Machine Learning : Regression, Classi \u03d0ication, Clustering, Time Series Forecasting, Recommendation Systems   \u2022 Natural Language Processing : Text Preprocessing, Sentiment Analysis, Topic Modeling, Named Entity Recognition  (NER)  \u2022 Generative AI : GPT-based Models, LangChain, Fine-tuning LLMs   \u2022 Data Visualization Tools : Power BI, Matplotlib, Seaborn, Tableau   \u2022 Databases : MySQL, Postgre",
+        "has_text": true,
+        "extract_error": ""
+      },
+      {
+        "path": "resume update/resumee 6 months/MADDIPATLA_BHAVI_RESUME 1.pdf",
+        "text_snippet": "Maddipatla Bhavitha  Email: maddipatlabhavitha@gmail.com   LinkedIn: https://www.linkedin.com/in/bhavitha-chowdary-665a07272  Tirupati, Andhra Pradesh, India GitHub: https://github.com/maddipatlabhavitha-art  Phone : +91 9182776938   Objective    Ambitious and motivated engineering graduate seeking an entry-level position in Data Science or Data Analysis where I  can apply my knowledge of Python, machine learning, and data analytics to extract meaningful insights from data.  Eager to contribute to data-driven decision making while continuously enhancing my analytical and technical skills.   Education    \u2022 MadanaPalle Institute of Technology and Science MadanaPalle, Andhra Pradesh BTech in Computer Science, DS  (Percentage of 87) Jul 2021 \u2013 May 2025   \u2022 Sri Chaitanya Junior College  Tirupati, Andhra Pradesh    HSC (Score 966/1000) Jun 2019 \u2013 May 2021   \u2022 Viswa Jyothi High School  Kalakada, Andhra Pradesh    SSC (GPA of 10/10) Jun 2018 \u2013 Apr 2019   Skills    \u2022 Programming Languages : Java, Python   \u2022 Data Science Libraries : Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy   \u2022 Machine Learning : Regression, Classi \u03d0ication, Clustering, Time Series Forecasting, Recommendation Systems   \u2022 Natural Language Processing : Text Preprocessing, Sentiment Analysis, Topic Modeling, Named Entity Recognition  (NER)  \u2022 Generative AI : GPT-based Models, LangChain, Fine-tuning LLMs   \u2022 Data Visualization Tools : Power BI, Matplotlib, Seaborn, Tableau   \u2022 Databases : MySQL, Postgre",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "resume update/internshala/Screenshot 2026-05-21 195135.png",
+      "resume update/internshala/Screenshot 2026-05-21 195150.png",
+      "resume update/linkedin/Screenshot 2026-05-21 194549.png",
+      "resume update/linkedin/Screenshot 2026-05-21 194658.png",
+      "resume update/linkedin/Screenshot 2026-05-21 194727.png",
+      "resume update/monster/Screenshot 2026-05-21 195920.png",
+      "resume update/monster/Screenshot 2026-05-21 195936.png",
+      "resume update/monster/Screenshot 2026-05-21 195956.png",
+      "resume update/monster/Screenshot 2026-05-21 200108.png",
+      "resume update/naukari/Screenshot 2026-05-21 194257.png",
+      "resume update/naukari/Screenshot 2026-05-21 194326.png",
+      "resume update/naukari/Screenshot 2026-05-21 194351.png",
+      "resume update/naukari/Screenshot 2026-05-21 194405.png",
+      "resume update/naukari/Screenshot 2026-05-21 194424.png",
+      "resume update/naukari/Screenshot 2026-05-21 194857.png"
+    ],
+    "other_files": []
+  },
+  "n3991282-hub-Resume-": {
+    "pdf_files": [
+      {
+        "path": "DOC-20260322-WA0004.pdf",
+        "text_snippet": "N A F I S A T A B A S S U M D a t a S c i e n c e | G e n A I E n g i n e e r i n g | M L O p s C O N T A C T I N F O R M A T I O N E m a i l : n 3 9 9 1 2 8 2 @ g m a i l . c o m | P h o n e : + 9 1 - 9 4 9 2 7 6 0 1 7 7  L o c a t i o n : B e n g a l u r u / H y d e r a b a d | O p e n t o r e l o c a t e  L i n k e d I n : l i n k e d i n . c o m / i n / n a f i s a - t a b a s s u m P R O F E S S I O N A L S U M M A R Y R e s u l t s - d r i v e n D a t a S c i e n c e a n d G e n A I e n g i n e e r w i t h e x p e r t i s e i n b u i l d i n g  p r o d u c t i o n - g r a d e m a c h i n e l e a r n i n g a n d a g e n t i c A I s o l u t i o n s . P r o v e n t r a c k  r e c o r d i n d e s i g n i n g R A G - b a s e d a s s i s t a n t s , i m p l e m e n t i n g a g e n t i c  w o r k f l o w s , a n d d e l i v e r i n g c l a s s i c a l M L m o d e l s w i t h r o b u s t v a l i d a t i o n a n d  m o n i t o r i n g . S k i l l e d i n t r a n s l a t i n g c o m p l e x t e c h n i c a l s o l u t i o n s i n t o  m e a s u r a b l e b u s i n e s s o u t c o m e s t h r o u g h d a t a - d r i v e n d e c i s i o n - m a k i n g a n d  c l e a r s t a k e h o l d e r c o m m u n i c a t i o n . C O R E C O M P E T E N C I E S A I & M a c h i n e L e a r n i n g - G e n A I S o l u t i o n s : R A G a r c h i t e c t u r e s , e m b e d d i n g s ,  h y b r i d r e t r i e v a l , p r o m p t e n g i n e e r i n g - A g e n t i c A I : L a n g G r a p h ,  t ",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "Screenshot_20260521-231116_LinkedIn.png",
+      "Screenshot_20260521-231359_foundit (Monster).png"
+    ],
+    "other_files": []
+  },
+  "pasupuletimanisha410-tech-Updated_Resume": {
+    "pdf_files": [
+      {
+        "path": "Manisha_Resume1.pdf",
+        "text_snippet": "Manisha P Phone: [8977787926] \u2014 Email: [pasupuleti.manisha410@gmail.com] LinkedIn: [LinkedIn] \u2014 GitHub: [github] Location: [Bengaluru, Karnataka] Career Objective To build and deploy data-driven and GenAI solutions that improve business outcomes using robust ML practices, clear evaluation, and responsible AI guardrails while continuously learning modern agentic workflows and MLOps on Azure. Skills \u2022Programming:Python, SQL, Git \u2022Machine Learning:scikit-learn, XGBoost, LightGBM, Model Evaluation (AUC, F1), Imbalance Handling \u2022NLP / LLMs:Token limits, Context windows, Prompt patterns, Structured outputs (JSON) \u2022GenAI:RAG, Embeddings, Hybrid Retrieval, Chunking Strategies, Citations, Guardrails \u2022Agentic AI:LangGraph, Tool/Function Calling, Planning & Routing, Memory Patterns, ReAct Orchestration \u2022Frameworks:LangChain, LlamaIndex, FastAPI (Basics), Flask (Basics), Pydantic \u2022Vector DB/Search:Azure AI Search (Vector), FAISS, Chroma \u2022Azure:Azure OpenAI, Azure ML (Basics), Blob Storage, ADLS, Key Vault, App Service \u2022MLOps/Evaluation:MLflow, Prompt/LLM Evaluation, Offline Test Sets, Monitoring Basics \u2022Data:Pandas, NumPy, EDA, Feature Engineering, Data Quality Checks Professional Experience Data Operations Specialist Company: Digital Di Consultants \u2014 Client: Walmart \u2014 Industry: Retail / E-Commerce \u2014 Role: Data Operations / Marketplace Analyst \u2014 Location: Bengaluru, India \u2014 Mar 2024 \u2013 Dec 2025 \u2022Generated and managed daily, weekly, and yearly reports to support sales analysis and business",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [
+      "Screenshots.docx"
+    ],
+    "image_files": [],
+    "other_files": []
+  },
+  "shaikthasleem2004-Tasleem_Resume": {
+    "pdf_files": [
+      {
+        "path": "Presentation1.pdf",
+        "text_snippet": "",
+        "has_text": false,
+        "extract_error": ""
+      },
+      {
+        "path": "Shaik_Thasleem_Resume__.pdf",
+        "text_snippet": "SHAIK THASLEEM   Data Scientist (2026) | Machine Learning | Data Analytics   +91-6301124336 \u2022 shaikthasleem884@gmail.com \u2022 linkedin.com/in/shaik -thasleem -5aa8a43b7 \u2022 github.com/shaikthasleem \u2022  Bengaluru / Hyderabad (Open to Relocate)     CAREER OBJECTIVE     Aspiring Data Scientist (2026) aiming to build end -to-end ML solutions and analytics dashboards that translate data into decisions  through clean pipelines and rigorous evaluation. Eager to contribute to data -driven teams and keep growing in machine learnin g,  NLP, and generative AI.   EDUCATION       Bachelor of Technology \u2014 Computer Science and Engineering  2022 \u2013 2026  Anantha Lakshmi Institute of Technology and Sciences | CGPA: 7.2 / 10   Relevant Coursework: Data Structures & Algorithms, Machine Learning, Database Systems, Statistics, Operating Systems, Artific ial  Intelligence   TECHNICAL SKILLS       Languages  Python, SQL, Git     ML / Data Science  scikit -learn, XGBoost, LightGBM, Random Forest, SMOTE, SHAP, Feature Engineering,   Cross -Validation, Pandas, NumPy, Statistics, Model Evaluation     Data Visualization  Matplotlib, Seaborn, Plotly, Power BI / Tableau, EDA, Excel     GenAI / NLP  RAG, LLM Prompting, Embeddings, Chunking, TF -IDF, Sentence Transformers, Guardrails, Structured   Outputs     Agentic AI  LangChain, LangGraph, LlamaIndex, Tool Calling, ReAct, Multi -Step Agent Workflows     Vector / Search  FAISS, Chroma, Azure AI Search     Cloud / Azure  Azure OpenAI, Azure ML, Blob Storage, Key ",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [],
+    "other_files": []
+  },
+  "sree468-Assignments_Python": {
+    "pdf_files": [
+      {
+        "path": "sree fresher.pdf",
+        "text_snippet": "KURAKULA SREEKANTH Machine Learning Intern Data Science Graduate \u2014 2025 Pass-Out Bengaluru \u2014 +91-9392380672 \u2014 sreekanthroyal7890@gmail.com inkedin.com/in/sreekanth-kurakula\u2014 github.com/sree468 Career Objective MCA 2025 graduate seeking a Data Scientist / Data Analyst role to apply Python, SQL, Machine Learning, and strong problem-solving skills to deliver predictive insights and automation. Education College/UniversityMadanapalle Institute of Technology and Science DegreeMCA Year2025 SpecializationComputer Applications Internship RoleData Science Intern CompanyAIML Private Limited, Banglore Duration6 Months \u2022Developed machine learning prototypes for business use cases. \u2022Performed exploratory data analysis (EDA), feature engineering, and model evaluation. \u2022Built reusable preprocessing pipelines and maintained experiment tracking using notebooks. \u2022Communicated results through charts, visualizations, and concise business recommendations. Projects (Data Science) Grape Leaf Disease Identification using Machine Learning \u2022Developed a Python and OpenCV based tool to automatically classify healthy and diseased grape leaves. \u2022Processed image datasets to isolate disease symptoms and extracted texture features for model training. \u2022Trained and evaluated machine learning models such as SVM and KNN to diagnose leaf health based on extracted features. \u2022Built an interactive graphical interface allowing users to upload images and view real-time disease predictions. Marketing Campaign Response ",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [
+      "Python practise/4 sql_assignments.docx"
+    ],
+    "image_files": [
+      "Screenshot 2026-05-21 165845.png",
+      "Screenshot 2026-05-21 193646.png",
+      "Screenshot 2026-05-21 193820.png",
+      "Screenshot 2026-05-21 194017.png",
+      "Screenshot 2026-05-21 194150.png",
+      "Screenshot 2026-05-21 194504.png",
+      "Screenshot 2026-05-21 194546.png",
+      "Screenshot 2026-05-21 194723.png"
+    ],
+    "other_files": [
+      "Data Science/Data Science/EDA/Superstore sales dataset.csv",
+      "Data Science/Data Science/NUMPY_Assign.ipynb",
+      "Data Science/Data Science/Streamlit project/Home.py",
+      "Data Science/Data Science/Streamlit project/pages/overview.py",
+      "Data Science/Data Science/Streamlit project/pages/product.py",
+      "Data Science/Data Science/Streamlit project/pages/profit.py",
+      "Data Science/Data Science/Streamlit project/pages/sales.py",
+      "Data Science/Data Science/data_science_assignments_300.ipynb",
+      "Data Science/Data Science/linear_reg.ipynb",
+      "Data Science/Data Science/logistc.ipynb",
+      "Data Science/Data Science/numpy.ipynb",
+      "Data Science/Data Science/numpy_300_questions.ipynb",
+      "Data Science/Data Science/retail_data.csv",
+      "Data Science/Data Science/seaborn.ipynb",
+      "Data Science/EDA/Superstore sales dataset.csv",
+      "Data Science/SQL/math_function.sql",
+      "Data Science/SQL/numerical_function.sql",
+      "Data Science/SQL/string Functions.sql",
+      "Data Science/Streamlit-main/Streamlit-main/README.md",
+      "Data Science/Streamlit-main/Streamlit-main/Reame.md",
+      "Data Science/Streamlit-main/Streamlit-main/app.py",
+      "Data Science/Streamlit-main/Streamlit-main/data/superstore_sales.csv",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Customer_Segments.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Data_Download.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Discount_Impact.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Overview.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Product_Categories.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Profit_Analysis.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Regional_Performance.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Sales_Analysis.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Shipping_Analysis.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/Top_Products.py",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Customer_Segments.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Data_Download.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Discount_Impact.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Overview.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Product_Categories.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Profit_Analysis.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Regional_Performance.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Sales_Analysis.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Shipping_Analysis.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/pages/__pycache__/Top_Products.cpython-312.pyc",
+      "Data Science/Streamlit-main/Streamlit-main/requirements.txt",
+      "Pandas/Superstore sales dataset.csv",
+      "Pandas/day1.ipynb",
+      "Python practise/.gitattributes",
+      "Python practise/01 Integers.ipynb",
+      "Python practise/02 Float.ipynb",
+      "Python practise/03 string.ipynb",
+      "Python practise/04 List.ipynb",
+      "Python practise/05 Tuple.ipynb",
+      "Python practise/06 Dictionary.ipynb",
+      "Python practise/07 set.ipynb",
+      "Python practise/08 Boolean.ipynb",
+      "Python practise/09 Complex.ipynb",
+      "Python practise/10 None.ipynb",
+      "Python practise/11 If-else statements.ipynb",
+      "Python practise/12 forloop.ipynb",
+      "Python practise/13 loops_and_control_structures_assignments.ipynb",
+      "Python practise/Assign_cinditional.ipynb",
+      "Python practise/Conditional-Loops/11 If-else statements.ipynb",
+      "Python practise/Conditional-Loops/12 forloop.ipynb",
+      "Python practise/Conditional-Loops/13 loops_and_control_structures_assignments.ipynb",
+      "Python practise/Conditional-Loops/Assign_cinditional.ipynb",
+      "Python practise/Conditional-Loops/for_loop_asign.ipynb",
+      "Python practise/Conditional-Loops/functions_assignment.ipynb",
+      "Python practise/Datatypes/01 Integers.ipynb",
+      "Python practise/Datatypes/02 Float.ipynb",
+      "Python practise/Datatypes/03 string.ipynb",
+      "Python practise/Datatypes/04 List.ipynb",
+      "Python practise/Datatypes/05 Tuple.ipynb",
+      "Python practise/Datatypes/06 Dictionary.ipynb",
+      "Python practise/Datatypes/07 set.ipynb",
+      "Python practise/Datatypes/08 Boolean.ipynb",
+      "Python practise/Datatypes/09 Complex.ipynb",
+      "Python practise/Datatypes/10 None.ipynb",
+      "Python practise/Datatypes/float_assignment.ipynb",
+      "Python practise/Datatypes/list_dict_assign.ipynb",
+      "Python practise/Datatypes/tuple_set_bool_complex_assign.ipynb",
+      "Python practise/bike_rentals_dt_reg.csv",
+      "Python practise/codes.ipynb",
+      "Python practise/float_assignment.ipynb",
+      "Python practise/for_loop_asign.ipynb",
+      "Python practise/functions_assignment.ipynb",
+      "Python practise/heart_dt_cls.csv",
+      "Python practise/list_dict_assign.ipynb",
+      "Python practise/oops_practise.ipynb",
+      "Python practise/regex.ipynb",
+      "Python practise/tuple_set_bool_complex_assign.ipynb",
+      "SQL/Day_1_assignments.sql",
+      "SQL/Joins_Assignment.sqlnb",
+      "SQL/data_function.sql",
+      "SQL/math_function.sql",
+      "SQL/numerical_function.sql",
+      "SQL/string Functions.sql",
+      "Structure/ml-project/.env",
+      "Structure/ml-project/.github/workflows/ci-cd.yml",
+      "Structure/ml-project/.gitignore",
+      "Structure/ml-project/README.md",
+      "Structure/ml-project/api/app.py",
+      "Structure/ml-project/api/routes.py",
+      "Structure/ml-project/deployment/Dockerfile",
+      "Structure/ml-project/deployment/docker-compose.yml",
+      "Structure/ml-project/models/trained_model.pkl",
+      "Structure/ml-project/notebooks/eda.ipynb",
+      "Structure/ml-project/notebooks/experiments.ipynb",
+      "Structure/ml-project/reports/metrics.json",
+      "Structure/ml-project/requirements.txt",
+      "Structure/ml-project/setup.py",
+      "Structure/ml-project/src/__init__.py",
+      "Structure/ml-project/src/config/config.yaml",
+      "Structure/ml-project/src/config/params.yaml",
+      "Structure/ml-project/src/evaluation/evaluate.py",
+      "Structure/ml-project/src/evaluation/metrics.py",
+      "Structure/ml-project/src/inference/batch_inference.py",
+      "Structure/ml-project/src/inference/predict.py",
+      "Structure/ml-project/src/ingestion/data_loader.py",
+      "Structure/ml-project/src/ingestion/ingest.py",
+      "Structure/ml-project/src/pipelines/inference_pipeline.py",
+      "Structure/ml-project/src/pipelines/training_pipeline.py",
+      "Structure/ml-project/src/preprocessing/data_validation.py",
+      "Structure/ml-project/src/preprocessing/feature_engineering.py",
+      "Structure/ml-project/src/preprocessing/preprocess.py",
+      "Structure/ml-project/src/training/hyperparameter_tuning.py",
+      "Structure/ml-project/src/training/model.py",
+      "Structure/ml-project/src/utils/config_loader.py",
+      "Structure/ml-project/src/utils/helpers.py",
+      "Structure/ml-project/src/utils/logger.py",
+      "Structure/ml-project/tests/test_api.py",
+      "Structure/ml-project/tests/test_data.py",
+      "Structure/ml-project/tests/test_model.py",
+      "Structure/mlflow.bat"
+    ]
+  },
+  "swarnagowri-m-resume1": {
+    "pdf_files": [
+      {
+        "path": "Swarna_Gowri_Resume_Updated (2).pdf",
+        "text_snippet": "SWARNA GOWRI MADAKALA   Gen AI Engineer  |  Front -End Developer  |  LangChain  |  Azure OpenAI  |  React  |  Python  |  Full -Stack AI Apps   +91-9676764388  |  swarnagowrimadakala@gmail.com  |  linkedin.com/in/swarna -gowri -madakala -27ab82290  |   github.com/swarnagowri -m  |  Bengaluru, KA   SUMMARY   Gen AI Engineer and Front -End Developer skilled in building production -grade AI applications using P ython,  LangChain, Azure OpenAI, and React.js. Experienced in RAG pipelines, prompt engineering, agentic workflows,  and full -stack deployment across AWS, GCP, and Azure. Proficient in integrating OpenAI GPT -4, Google Gemini,  and Hugging Face into scalable w eb apps with measurable improvements in accuracy and performance.   TECHNICAL SKILLS   Languages:  Python, SQL, JavaScript (ES6+), HTML5, CSS3   Frontend:  React.js, Responsive Web Design, DOM Manipulation, Component Architecture   Gen AI & LLM:  Azure OpenAI, Ope nAI API, Hugging Face, Google Gemini, LangChain, RAG, Prompt  Engineering, Guardrails, Vector Search, Embeddings   AI Frameworks:  LangChain, TensorFlow, PyTorch, scikit -learn   Cloud & Deployment:  AWS, GCP, Azure (AI Foundry, AI Search), REST API Integration,  Cloud App  Deployment   Agentic AI:  Agentic Workflows, Role -Based Retrieval, Confidence Heuristics, Fallback Flows, Eval Pipelines   NLP & ML:  Text Preprocessing, TF -IDF, Word Embeddings, Sentiment Analysis, Classification, Regression   Data & Tools:  Pandas, NumPy, Matplotlib, Seaborn, Power ",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "screenshorts/WhatsApp Image 2026-05-21 at 5.34.21 PM (1).jpeg",
+      "screenshorts/WhatsApp Image 2026-05-21 at 5.34.21 PM (2).jpeg",
+      "screenshorts/WhatsApp Image 2026-05-21 at 5.34.21 PM.jpeg",
+      "screenshorts/WhatsApp Image 2026-05-21 at 6.12.11 PM.jpeg",
+      "screenshorts/WhatsApp Image 2026-05-21 at 6.13.02 PM.jpeg",
+      "screenshorts/WhatsApp Image 2026-05-21 at 6.13.43 PM.jpeg",
+      "screenshorts/WhatsApp Image 2026-05-21 at 6.19.59 PM.jpeg",
+      "screenshorts/glassdoor1.jpeg",
+      "screenshorts/glassdoor2.jpeg",
+      "screenshorts/indeed.jpeg"
+    ],
+    "other_files": []
+  },
+  "thumburupavankumar-hub-My-Docs": {
+    "pdf_files": [
+      {
+        "path": "Job_Resume_2026.pdf",
+        "text_snippet": "Pavan Kumar Bengaluru / Hyderabad (Open to relocate) pavankumarthumburu.professional@gmail.com +91-7601075634 www.linkedin.com/in/pavan-kumar-thumburu-9149923b7 Professional Summary Data Scientist and GenAI Engineer with experience building retrieval-augmented generation (RAG) systems, agentic AI workflows, and machine learning solutions on Azure. Skilled in prompt engineering, structured outputs, evaluation pipelines, and scalable ML practices with a focus on business impact and responsible AI. Technical Skills ProgrammingPython, SQL, Git Machine Learningscikit-learn, XGBoost, LightGBM, Model Evaluation, Imbalanced Learning GenAI / NLPRAG, Embeddings, Prompt Engineering, Context Windows, Structured Outputs Agentic AILangGraph, Tool Calling, Routing, ReAct Workflows, Memory Patterns FrameworksLangChain, LlamaIndex, FastAPI, Flask, Pydantic Vector SearchAzure AI Search, FAISS, ChromaDB AzureAzure OpenAI, Azure ML, Blob Storage, ADLS, Key Vault MLOpsMLflow, Offline Evaluation, Monitoring, Experiment Tracking Data StackPandas, NumPy, EDA, Feature Engineering, Data Validation Experience INTENSO TECH SOLUTION PRIVATE LIMITEDBangalore, India Data Scientist / GenAI EngineerMar 2024 - Mar 2026 (2+ Years) \u2022Developed and deployed AI and machine learning solutions for enterprise applications using Python and Azure- based technologies. \u2022Built retrieval-augmented generation (RAG) pipelines and prompt-engineering workflows for intelligent document and chatbot systems. \u2022Worked on data prepr",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "My Docs/Screenshot 2026-05-21 175441.png",
+      "My Docs/Screenshot 2026-05-21 175611.png",
+      "My Docs/Screenshot 2026-05-21 180453.png",
+      "My Docs/Screenshot 2026-05-21 180922.png",
+      "My Docs/Screenshot 2026-05-21 181201.png",
+      "My Docs/Screenshot 2026-05-21 184055.png"
+    ],
+    "other_files": []
+  },
+  "yendlurivardhan-Job_profiles": {
+    "pdf_files": [
+      {
+        "path": "Vijay_vardhan(1)_resume.pdf",
+        "text_snippet": "YENDLURI VIJAY VARDHAN   Data Science Engineer  |  GenAI & ML Specialist   \u2709  yendlurivardhan@gmail.com    |   \ud83d\udcf1  +91-6305108021    |   \ud83d\udccd  Bengaluru / Hyderabad (Open to Relocate)   \ud83d\udd17  linkedin.com/in/yendlurivijayvardhan06       CAREER OBJECTIVE       Final-year B.Tech student in AI & Data Science seeking to build and deploy data-driven and GenAI solutions that improve business  outcomes using robust ML practices, clear evaluation, and responsible AI guardrails, while continuously learning modern agentic  workflows and MLOps on Azure.     TECHNICAL SKILLS       Programming  Python, SQL, Git   ML / Data  Pandas, NumPy, Scikit-learn, TensorFlow / Keras, OpenCV   NLP / LLMs  LangChain, Azure OpenAI, Prompt Engineering, RAG   Cloud / Tools  Azure AI Search, Azure Key Vault, Vector Search, MLOps (Azure)   Practices  Agentic Workflows, Tool/Function Calling, Evaluation Sets     INTERNSHIP EXPERIENCE       GenAI / Data Science Intern  \u2014  Nayagara Technologies Limited  6 Months  Domain: Generative AI \u00b7 E-Commerce     \u25b8 Built a RAG-based GenAI assistant for product discovery using Azure OpenAI & LangChain.   \u25b8 Implemented vector search, hybrid retrieval, and prompt engineering with citations.   \u25b8 Improved retrieval accuracy via reranking and query rewriting techniques.   \u25b8 Designed and delivered GenAI solutions using RAG patterns with grounded responses, citations, and fallback behavior.   \u25b8 Implemented chunking, metadata filters, and evaluation sets to improve answer faithfulness an",
+        "has_text": true,
+        "extract_error": ""
+      }
+    ],
+    "doc_files": [],
+    "image_files": [
+      "Screenshot 2026-05-21 180534.png",
+      "Screenshot_20260521_163602.jpg",
+      "Screenshot_20260521_163652.jpg",
+      "Screenshot_20260521_163804.jpg",
+      "Screenshot_20260521_173219.jpg"
+    ],
+    "other_files": []
+  }
+}
