@@ -1,464 +1,204 @@
+# Resume Improvement Actions
 
-# GenAI & Agentic AI Resume Skill Improvements with Examples
+> Note: PDF text was extracted using Python tools. The environment does not have the system `tesseract` binary installed, so screenshot images and image-only PDFs were not OCRed automatically. Please review profile screenshots manually for Monster, Naukri, LinkedIn, Internshala, Indeed, etc.
 
----
-
-# Abhishek8744-yadav-job_related
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI GPT-4
-- LangChain
-- Prompt Engineering
-- RAG (Retrieval Augmented Generation)
-- ChromaDB
-- FastAPI
-- Streamlit
-- AI Agents
-
-## Example Project Improvement
-❌ Built chatbot using Python
-
-✅ Built an AI-powered document assistant using Python, LangChain, OpenAI GPT-4, and ChromaDB with RAG architecture to answer user queries from uploaded PDFs.
+## Summary
+- I scanned every folder for resume PDFs, DOCX files, and profile screenshots.
+- Most folders contain one main resume PDF plus profile screenshot images or PDFs.
+- Some folders contain only DOCX resume files, which should be converted to PDF before sharing.
+- For folders with multiple copies of the same resume, keep only the latest clean PDF and remove duplicates.
 
 ---
 
-# Aravind24092001-resume
+## Abhishek8744-yadav-job_related
+- Files found: `Job_Related/My_resume.docx`, profile screenshots for Glassdoor, Indeed, Internshala, LinkedIn, Monster, Naukri.
+- Recommendation: convert `My_resume.docx` to PDF and use a clean one-page format.
+- Add a strong professional summary at the top with target role and key skills.
+- Use clear bullet achievements rather than generic statements.
+- Ensure contact details and online profiles are visible and accurate.
+- Manually review all profile screenshots for consistency in headline, experience, and skills.
 
-## Skills to Add
-- Python
-- SQL
-- Hugging Face Transformers
-- LangGraph
-- CrewAI
-- OpenAI APIs
-- Semantic Search
-- Vector Databases
-- Prompt Chaining
-- Multi-Agent Systems
+## Aravind24092001-resume
+- Files found: `data science.pdf`, LinkedIn/Naukri/wellfound screenshots.
+- Good: resume already includes a technical summary and strong skills list.
+- Improve spacing and readability: remove run-on text, add line breaks and bullet points in the summary.
+- Highlight specific achievements and quantify results where possible.
+- Separate skills into categories: Programming, ML, NLP/GenAI, Cloud, Tools.
+- Confirm that LinkedIn/Naukri profiles match the resume title and locations.
 
-## Example Project Improvement
-❌ Developed sentiment analysis model
+## DHANYAVADH-EDUKRON-PYTHON-2026
+- Files found: `dhanyavadh_resume.pdf`, three screenshots, plus many notebooks and assignments.
+- Recommendation: keep the resume file separate from project notebooks and assignment files.
+- Improve the summary by focusing on one or two key strengths and removing generic phrases.
+- Add specific project metrics, such as accuracy improvements, dataset size, or business impact.
+- If notebooks are part of the portfolio, move them into a `portfolio/` folder and reference them from the resume.
+- Manually review the screenshots for portal profile quality and consistency.
 
-✅ Developed a multi-agent customer support AI system using CrewAI, OpenAI, and Python to automate ticket classification and response generation.
+## HariDinesh5481-Docs
+- Files found: `Job_resume.pdf`, screenshot images for Indeed, LinkedIn, Monster, Naukri, Wellfound.
+- Good: resume contains relevant GenAI and MLOps experience.
+- Focus bullets on impact: e.g., “improved model accuracy by X%,” “reduced inference time by Y%.”
+- Remove repeated phrases and shorten the professional summary for clarity.
+- Clean up the technical skills section into groups; avoid mixing tools and concepts unstructured.
+- Ensure all portal profiles show the same role and headline as the resume.
 
----
+## Harichandanaaaa-Resume_update
+- Files found: resume PDF and many portal screenshots (Indeed, Internshala, LinkedIn, Monster, Naukri).
+- Recommendation: replace the broad objective with a concise profile summary highlighting the candidate’s strongest domain.
+- Use action verbs and concrete outcomes for internship bullets.
+- Ensure consistent formatting of skills, using clear categories.
+- Remove filler words like “ambitious” and replace with measurable contributions.
+- Review profile screenshots for headline, skills, and availability details.
 
-# DHANYAVADH-EDUKRON-PYTHON-2026
+## Haricheluri-profile
+- Files found: two resume PDFs (`HARIHARAN_RESUME.pdf`, `Hariharan_cheluru_resume.pdf`) and many screenshots.
+- Recommendation: choose one final resume file and merge the best content from both PDFs.
+- Make sure the resume has a focused role target, such as “MERN Stack Developer” or “Data Science Intern.”
+- Strengthen project descriptions with outcomes and technology stacks.
+- Remove redundancy between similar resume versions.
+- Review screenshots to verify the same details are present across all portal profiles.
 
-## Skills to Add
-- Python
-- SQL
-- OpenAI
-- LangChain
-- Pinecone
-- ChromaDB
-- RAG Pipelines
-- FastAPI
-- Prompt Engineering
-- AI Workflow Automation
+## Murali-Krishna22ds-Resume
+- Files found: `Murali_Krishna_N_Optimized.docx`, `Profile.docx`.
+- Recommendation: export the resume as PDF and keep one polished version.
+- Use a clean layout and include a clear summary and skills section.
+- Add a projects or internship section if not already present.
+- Ensure contact details are complete and professional.
+- If available, include links to LinkedIn/GitHub in the resume.
 
-## Example Project Improvement
-❌ Created chatbot notebook
+## afisha-02-Afisha_resume
+- Files found: `Afisha_Azme_Resume (1).pdf`, `Screenshot (537).pdf`.
+- Good: resume contains a strong summary and skills list.
+- Improve formatting by removing extra whitespace and fixing line breaks.
+- Ensure LinkedIn and GitHub links are clickable and correctly formatted.
+- Replace general statements with measurable achievements and specific project outcomes.
+- The screenshot PDF appears image-based; manually verify whether it is a profile screenshot or resume backup.
 
-✅ Created a RAG-based AI chatbot using OpenAI embeddings, LangChain, Python, and Pinecone to retrieve answers from enterprise documents.
+## darshan-202003-My_resume
+- Files found: `Darshan_MY_Resume.pdf`, many screenshot images, `link.txt`.
+- Good: clear role title and experience in GenAI/ML.
+- Improve the objective by making it more specific and outcome-oriented.
+- Use bullets with metrics in experience and project sections.
+- Ensure contact details are in one header block with location, email, phone, and profile URLs.
+- Review the screenshot images and ensure the portal profiles reflect the same skills and role.
 
----
+## gujjulakiran725-cyber-jobs-and-resume
+- Files found: `job_profiles/Ravi kiran ml (1).pdf`, four screenshots.
+- Improve the resume by quantifying achievements and making skills sections easier to scan.
+- Use strong headers and avoid overly long paragraphs.
+- Confirm that portal screenshots show a complete profile headline and key skills.
+- If the resume is targeted to ML roles, remove unrelated or overly broad details.
 
-# HariDinesh5481-Docs
+## jayanthn2703-updated-resume-and-job-profiles-screenshot
+- Files found: `jayanth_resume.pdf`, `scrennshots.pdf`.
+- Good: resume has a polished summary and clear experience section.
+- Fix any spelling/formatting issues in the screenshot PDF file name and content.
+- Emphasize measurable results in each project or job bullet.
+- Keep the resume concise and avoid repeated generic phrases.
+- Verify the screenshot PDF separately to ensure the job portal profile is updated.
 
-## Skills to Add
-- Python
-- SQL
-- LLMOps
-- LangChain
-- OpenAI APIs
-- AI Agents
-- Prompt Engineering
-- MLflow
-- FastAPI
-- RAG Systems
+## kireeti200105-Kireeti-Resume
+- Files found: `BADUGU_KIREETI_RESUME.pdf`, profile screenshots for Internshala, Monster, Naukri.
+- Good: the resume has a clear objective and relevant Data Science skills.
+- Improve the resume by adding project results and removing generic goal statements.
+- Group technical skills into categories and use consistent formatting.
+- Keep only one version of the resume and remove duplicate copies.
+- Review the portal screenshots to ensure headline and skills are aligned.
 
-## Example Project Improvement
-❌ Worked on AI deployment
+## kruthikaa86-creator-resume
+- Files found: `_kruthika_a_resume.pdf`, profile screenshots for Internshala, Monster, Naukri.
+- Improve the resume by making the career objective more specific and by adding achievements.
+- Use clean bullet formatting for experience and projects.
+- Check that the top header includes correct contact details and links.
+- Confirm portal screenshot profiles show the same role and skill keywords.
 
-✅ Deployed a scalable GenAI inference API using FastAPI, Python, and OpenAI GPT models with automated prompt evaluation and monitoring.
+## kumarrajathammana918-jobs-and-resume
+- Files found: two copies of `Kumarraja_resume.pdf` and many profile screenshots.
+- Recommendation: remove duplicate resume copies and keep one final PDF.
+- Improve the resume by making bullets more measurable and concise.
+- Ensure the summary aligns with the target role of Machine Learning Engineer.
+- Review the screenshots for Monster/Naukri/LinkedIn consistency.
+- Consider adding a short “Key Achievements” section at the top.
 
----
+## maddipatlabhavitha-art-resume-update
+- Files found: duplicate resume PDFs and 15 profile screenshots.
+- Keep one clean resume file and delete duplicate copies.
+- Improve the objective by focusing on tangible skills and results.
+- Use stronger project or internship bullets with metrics.
+- Review screenshot profiles to ensure the same title, skills, and city are used.
 
-# Harichandanaaaa-Resume_update
+## n3991282-hub-Resume-
+- Files found: one PDF resume and LinkedIn/Monster screenshots.
+- Improve the resume contact block by making it neat and removing brackets from phone/email fields.
+- Add a clearer summary and quantify accomplishments.
+- If the resume is for AI/ML roles, highlight specific tools and projects.
+- Verify portal profiles for headline, skills, and location consistency.
 
-## Skills to Add
-- Python
-- SQL
-- OpenAI
-- Hugging Face
-- LangChain
-- Prompt Engineering
-- AI Chatbots
-- Streamlit
-- RAG Architecture
-- Vector Databases
+## pasupuletimanisha410-tech-Updated_Resume
+- Files found: `Manisha_Resume1.pdf`, `Screenshots.docx`.
+- Good: the resume has a strong objective and technical focus.
+- Remove placeholder brackets around contact details and links.
+- Make sure the LinkedIn and GitHub fields contain actual URLs.
+- Convert the docx screenshot file to a proper PDF or separate documentation folder.
+- Keep the resume concise and target it to a specific job role.
 
-## Example Project Improvement
-❌ Worked on chatbot project
+## shaikthasleem2004-Tasleem_Resume
+- Files found: resume PDF `Shaik_Thasleem_Resume__.pdf` and `Presentation1.pdf`.
+- Only the resume PDF should be used as the candidate’s primary resume.
+- If `Presentation1.pdf` is a portfolio piece, keep it separate and label it clearly.
+- Improve the resume by adding measurable results and more structured skills.
+- Remove extra or unrelated content that does not support the job target.
 
-✅ Developed an AI customer interaction assistant using OpenAI GPT-4, LangChain, and Streamlit with conversational memory handling.
+## sree468-Assignments_Python
+- Files found: `sree fresher.pdf`, one docx, eight screenshots, and many notebooks/assignments.
+- Recommendation: separate the actual resume (`sree fresher.pdf`) from assignment notebooks.
+- Use the resume to present experience, skills, and a short project summary.
+- Keep assignment notebooks in a separate portfolio folder and reference them as supporting work.
+- Check the resume for a clear objective and a strong, concise skills section.
+- Avoid mixing coursework and resume content in the same folder used for applications.
 
----
+## swarnagowri-m-resume1
+- Files found: `Swarna_Gowri_Resume_Updated (2).pdf` and ten screenshots.
+- Improve the resume by using bullet points and clear section headings.
+- Highlight one or two strong achievements or projects with metrics.
+- Keep the header succinct and include key profile links.
+- Review screenshot profiles for LinkedIn/Naukri/portal consistency.
 
-# Haricheluri-profile
+## thumburupavankumar-hub-My-Docs
+- Files found: `Job_Resume_2026.pdf` and six screenshot images.
+- Improve the resume by ensuring the summary is targeted and the skills are grouped.
+- Remove any outdated or irrelevant wording from the objective.
+- Confirm the screenshots represent updated profile information.
+- Format the resume so it is easy to scan in 30 seconds.
 
-## Skills to Add
-- Python
-- SQL
-- LangChain
-- CrewAI
-- AutoGen
-- OpenAI
-- AI Agents
-- Prompt Engineering
-- Semantic Search
-- FastAPI
-
-## Example Project Improvement
-❌ Developed AI project
-
-✅ Built a multi-agent AI automation workflow using CrewAI, Python, and OpenAI APIs for automated research summarization tasks.
-
----
-
-# Murali-Krishna22ds-Resume
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI APIs
-- LangChain
-- ChromaDB
-- RAG
-- Prompt Engineering
-- Streamlit
-- AI Agents
-- FastAPI
-
-## Example Project Improvement
-❌ Created NLP application
-
-✅ Built a GenAI-powered resume screening system using LangChain, OpenAI embeddings, Python, and ChromaDB for semantic candidate matching.
-
----
-
-# afisha-02-Afisha_resume
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI GPT-4
-- Prompt Engineering
-- LangChain
-- AI Automation
-- RAG Systems
-- Semantic Search
-- Pinecone
-- Streamlit
-
-## Example Project Improvement
-❌ Worked on AI assistant
-
-✅ Developed a semantic AI search assistant using OpenAI embeddings, Pinecone vector DB, and Python for intelligent enterprise document retrieval.
-
----
-
-# darshan-202003-My_resume
-
-## Skills to Add
-- Python
-- SQL
-- CrewAI
-- LangGraph
-- OpenAI
-- AI Agents
-- Prompt Engineering
-- RAG Pipelines
-- ChromaDB
-- FastAPI
-
-## Example Project Improvement
-❌ Built automation tool
-
-✅ Developed a multi-agent AI workflow using LangGraph, OpenAI GPT-4, and Python for automated task orchestration and report generation.
-
----
-
-# gujjulakiran725-cyber-jobs-and-resume
-
-## Skills to Add
-- Python
-- SQL
-- NLP
-- OpenAI APIs
-- Prompt Engineering
-- LangChain
-- AI Security Automation
-- Semantic Search
-- AI Agents
-- ChromaDB
-
-## Example Project Improvement
-❌ Worked on ML security project
-
-✅ Built an AI-powered anomaly detection assistant using Python, OpenAI embeddings, and semantic retrieval for cybersecurity event analysis.
+## yendlurivardhan-Job_profiles
+- Files found: `Vijay_vardhan(1)_resume.pdf` and five job portal screenshots.
+- Improve the resume by tightening the objective and emphasizing measurable results.
+- Use stronger bullets for experience and projects.
+- Make sure contact information is clear at the top.
+- Verify that portal profiles show a consistent role and function.
 
 ---
 
-# jayanthn2703-updated-resume-and-job-profiles-screenshot
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI GPT-4
-- LangChain
-- RAG Systems
-- Prompt Engineering
-- AI Automation
-- ChromaDB
-- FastAPI
-- Streamlit
-
-## Example Project Improvement
-❌ Developed recommendation system
-
-✅ Built a GenAI recommendation assistant using LangChain, OpenAI, and ChromaDB for personalized content retrieval and ranking.
+## General improvements for all student resumes
+- Keep one polished final resume file per candidate.
+- Convert DOCX to PDF for distribution.
+- Use a single target role per resume (e.g., Data Scientist, ML Engineer, GenAI Engineer).
+- Put contact details, location, and profile links at the top.
+- Use bullet points with action verbs and measurable outcomes.
+- Group technical skills into categories for easier scanning.
+- Avoid long paragraphs in the summary; prefer two to three punchy sentences.
+- Remove duplicate files and extra copies.
+- Make sure Monster, Naukri, LinkedIn, Internshala, and Indeed profiles are consistent with the resume.
+- Proofread for spelling, spacing, and clean formatting.
 
 ---
 
-# kireeti200105-Kireeti-Resume
+## Next actions
+1. Review each screenshot manually to confirm portal profile content.
+2. Keep only one final resume per student and move all supporting screenshots to a separate `profiles/` folder.
+3. Convert DOCX resumes to PDF and remove duplicates.
+4. Apply the suggested resume formatting and content improvements for each folder.
 
-## Skills to Add
-- Python
-- SQL
-- OpenAI APIs
-- LangChain
-- Prompt Engineering
-- AI Agents
-- Pinecone
-- RAG Pipelines
-- FastAPI
-- Streamlit
 
-## Example Project Improvement
-❌ Created AI chatbot
 
-✅ Built a retrieval-augmented AI chatbot using OpenAI GPT-4, LangChain, Python, and Pinecone for contextual question answering.
-
----
-
-# kruthikaa86-creator-resume
-
-## Skills to Add
-- Python
-- SQL
-- Prompt Engineering
-- OpenAI GPT Models
-- LangChain
-- AI Content Generation
-- Semantic Search
-- AI Workflow Automation
-- Streamlit
-- ChromaDB
-
-## Example Project Improvement
-❌ Built content generator
-
-✅ Developed an AI content generation platform using OpenAI GPT-4, Python, and LangChain for automated marketing copy creation.
-
----
-
-# kumarrajathammana918-jobs-and-resume
-
-## Skills to Add
-- Python
-- SQL
-- LangChain
-- OpenAI
-- CrewAI
-- Prompt Engineering
-- AI Agents
-- ChromaDB
-- RAG Systems
-- FastAPI
-
-## Example Project Improvement
-❌ Built ML project
-
-✅ Developed a GenAI-based intelligent assistant using OpenAI GPT-4, LangChain, Python, and vector embeddings for enterprise knowledge retrieval.
-
----
-
-# maddipatlabhavitha-art-resume-update
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI APIs
-- LangChain
-- Prompt Engineering
-- AI Automation
-- Pinecone
-- Semantic Search
-- AI Agents
-- FastAPI
-
-## Example Project Improvement
-❌ Worked on AI solution
-
-✅ Built an AI workflow automation system using Python, OpenAI GPT-4, LangChain, and Pinecone for document summarization and retrieval.
-
----
-
-# n3991282-hub-Resume-
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI GPT-4
-- LangChain
-- RAG Pipelines
-- Prompt Engineering
-- ChromaDB
-- FastAPI
-- AI Agents
-- Semantic Retrieval
-
-## Example Project Improvement
-❌ Developed AI application
-
-✅ Developed a retrieval-based AI assistant using LangChain, ChromaDB, OpenAI embeddings, and Python for enterprise search optimization.
-
----
-
-# pasupuletimanisha410-tech-Updated_Resume
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI APIs
-- LangChain
-- Prompt Engineering
-- RAG Systems
-- AI Agents
-- Pinecone
-- Streamlit
-- FastAPI
-
-## Example Project Improvement
-❌ Built chatbot system
-
-✅ Created a GenAI-powered conversational assistant using OpenAI GPT-4, LangChain, and Pinecone with contextual memory support.
-
----
-
-# shaikthasleem2004-Tasleem_Resume
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI GPT Models
-- Prompt Engineering
-- LangChain
-- Semantic Search
-- AI Automation
-- ChromaDB
-- AI Agents
-- FastAPI
-
-## Example Project Improvement
-❌ Developed AI project
-
-✅ Built a semantic AI search assistant using OpenAI embeddings, LangChain, Python, and ChromaDB for intelligent document retrieval.
-
----
-
-# sree468-Assignments_Python
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI APIs
-- LangChain
-- RAG Pipelines
-- Prompt Engineering
-- Streamlit
-- Pinecone
-- AI Workflow Automation
-- AI Agents
-
-## Example Project Improvement
-❌ Created Python notebook project
-
-✅ Developed a GenAI-powered PDF question-answering assistant using Python, LangChain, OpenAI embeddings, and Pinecone vector storage.
-
----
-
-# swarnagowri-m-resume1
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI GPT-4
-- LangChain
-- AI Agents
-- Prompt Engineering
-- Semantic Search
-- RAG Systems
-- FastAPI
-- ChromaDB
-
-## Example Project Improvement
-❌ Worked on NLP project
-
-✅ Built a GenAI customer support assistant using LangChain, OpenAI GPT-4, Python, and ChromaDB with semantic retrieval capabilities.
-
----
-
-# thumburupavankumar-hub-My-Docs
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI APIs
-- LangChain
-- CrewAI
-- AI Agents
-- Prompt Engineering
-- Pinecone
-- RAG Pipelines
-- FastAPI
-
-## Example Project Improvement
-❌ Built AI automation tool
-
-✅ Developed an autonomous AI workflow system using CrewAI, Python, OpenAI GPT-4, and Pinecone for intelligent task automation.
-
----
-
-# yendlurivardhan-Job_profiles
-
-## Skills to Add
-- Python
-- SQL
-- OpenAI GPT-4
-- LangChain
-- Prompt Engineering
-- ChromaDB
-- AI Agents
-- Semantic Search
-- RAG Systems
-- Streamlit
-
-## Example Project Improvement
-❌ Created AI application
-
-✅ Built a retrieval-augmented GenAI assistant using LangChain, OpenAI GPT-4, Python, and ChromaDB for contextual enterprise search.
